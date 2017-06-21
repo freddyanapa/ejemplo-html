@@ -1,0 +1,34 @@
+<html>
+<head>
+<title> DATOS DEL ESTUDIANTE </title>
+</head>
+<body>
+
+<center><h2> Datos personales del estudiante de octavo ciclo de Ingenieria y Tecnologia </h2></center>
+<TABLE BORDER="1">
+<tr>
+<th>Nombre</th>  <th>Añapa Martinez Freddy  </th>
+</tr>
+ <th>Fecha de Nacimiento</th>  <th> Esmeraldas 29 de Abril </th>
+<tr>
+<th>Facultad</th>  <th> Ingenieria y Tecnologia</th>
+</tr>
+<th>Carrera</th>  <th> Ingenieria en Sistema</th>
+<tr>
+<th>Etnia</th>  <th> Indigena</th>
+</tr>
+<th>Ciclo</th>  <th> 8</th>
+<tr>
+<th>Paralelo</th>  <th> "A"</th>
+</tr>
+<th>Correo Institucional</th>  <th> freddy.anapa@utelvt.edu.ec</th>
+<tr>
+<th>Celular</th>  <th> 0960185015</th>
+</tr>
+<th>Tipo de sangre</th>  <th> ORH+</th>
+
+</TABLE>
+
+
+</body>
+</html>
